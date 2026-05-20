@@ -10,12 +10,12 @@ I am a Cybersecurity Engineering student based in Poznań, Poland. I combine my 
 *  Writing automated SOAR scripts (Bash, Python, PowerShell) for threat intelligence and incident response.
 *  Actively training on TryHackMe to sharpen my Blue/Red Team skills.
 
-### 🛠️ Core Skills:
+### Core Skills:
 * **Security & Monitoring:** Event Viewer, Sentry, Grafana, OSINT (VirusTotal), Nmap
 * **Systems & Network:** Windows Server, Active Directory, Linux (Ubuntu, Kali), TCP/IP, DNS
 * **Scripting:** Python, Bash, PowerShell
 * **Languages:** Italian (Native), Polish (Native), English (Fluent)
 
-### 📫 Let's connect:
+### Let's connect:
 * **LinkedIn:** [linkedin.com/in/wiktorjakubowski](https://www.linkedin.com/in/wiktorjakubowski/)
 * **Email:** w.jakubowski04@gmail.com
