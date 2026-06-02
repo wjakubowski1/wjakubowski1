@@ -2,6 +2,11 @@ wiktor jakubowski, 22
 
 based in **poznań** poland
 
+### 📊 Statystyki kodu (GitHub Actions)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/wjakubowski1/wjakubowski1/main/github-metrics.svg" alt="Moje metryki GitHub" />
+</p>
+
 ### skills in cybersecurity
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
