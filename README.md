@@ -3,7 +3,7 @@ wiktor jakubowski, 22
 based in **poznań** poland
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/wjakubowski1/wjakubowski1/main/github-metrics.svg" alt="Moje metryki GitHub" />
+  <img src="https://raw.githubusercontent.com/wjakubowski1/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="my languages" />
 </p>
 
 ### skills in cybersecurity
