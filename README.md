@@ -2,7 +2,6 @@ wiktor jakubowski, 22
 
 based in **poznań** poland
 
-### 📊 Statystyki kodu (GitHub Actions)
 <p align="left">
   <img src="https://raw.githubusercontent.com/wjakubowski1/wjakubowski1/main/github-metrics.svg" alt="Moje metryki GitHub" />
 </p>
