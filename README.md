@@ -1,6 +1,5 @@
-wiktor jakubowski, 22
 
-based in **poznań** poland
+### Statistics & Skills
 
 <img align="left" width="400" src="https://github.com/wjakubowski1/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Github stats" />
 
@@ -30,3 +29,11 @@ based in **poznań** poland
 </p>
 
 <br clear="left"/>
+
+### About me
+
+cybersecurity student focused on system monitoring, log analysis, and network defense. Most of my time goes into building automated security tools using Python and PowerShell, working with threat intelligence, or testing vulnerabilities within my Active Directory home lab.
+
+### Contact
+
+w.jakubowski04@gmail.com | www.linkedin.com/in/wiktorjakubowski/
