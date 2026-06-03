@@ -2,11 +2,7 @@ wiktor jakubowski, 22
 
 based in **poznań** poland
 
-![](https://github.com/wjakubowski1/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/wjakubowski1/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/wjakubowski1/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/wjakubowski1/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 ### skills in cybersecurity
 <p>
