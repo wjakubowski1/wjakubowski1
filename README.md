@@ -32,7 +32,7 @@
 
 ### About me
 
-cybersecurity student focused on system monitoring, log analysis, and network defense. Most of my time goes into building automated security tools using Python and PowerShell, working with threat intelligence, or testing vulnerabilities within my Active Directory home lab.
+Cybersecurity student located in Poznań, Poland. My goal is to bridge the gap between deep system engineering and DevSecOps to build and defend resilient infrastructure.
 
 ### Contact
 
